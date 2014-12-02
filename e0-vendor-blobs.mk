@@ -16,7 +16,7 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES := \
-    vendor/lge/e400/proprietary/lib/libcamera.so:obj/lib/libcamera.so
+    vendor/lge/e0/proprietary/lib/libcamera.so:obj/lib/libcamera.so
 
 PRODUCT_COPY_FILES += \
     vendor/lge/e0/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
